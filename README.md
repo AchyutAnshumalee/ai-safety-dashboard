@@ -1,8 +1,11 @@
-# AI Safety Dashboard
+# AI Safeties Dashboard
 
 ## Description
 
-AI Safety Dashboard is an interactive platform designed to monitor AI system behaviors, identify safety risks, and ensure compliance with ethical standards. The dashboard provides real-time insights into AI model performance, tracking key metrics to influence AI safety.
+AI Safeties Dashboard is an interactive platform designed to monitor AI system behaviors, identify safety risks, and ensure compliance with ethical standards. The dashboard provides real-time insights into AI model performance, tracking key metrics to enhance AI safety and trust.
+
+You can access the live application here:  
+👉 [ai-safeties-dashboard.netlify.app](https://ai-safeties-dashboard.netlify.app)
 
 ---
 
